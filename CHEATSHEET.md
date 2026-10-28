@@ -1,5 +1,7 @@
 # Aurora Database with EC2 — Cheat Sheet
 
+> 📚 **Part 1 of 2** in my Aurora projects · Next: [Connect a Web App with Aurora](https://github.com/jasahorro/Connect-a-Web-App-with-Aurora/blob/main/CHEATSHEET.md) →
+
 Lesson notes for reviewing later. The project write-up is in [README.md](README.md).
 
 ## Contents
